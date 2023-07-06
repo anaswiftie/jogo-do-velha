@@ -1,2 +1,2 @@
 # jogo da velha
-atividade
+atividade - programação visual
