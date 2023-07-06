@@ -1,2 +1,2 @@
-# jogo-do-velha
+# jogo da velha
 atividade
